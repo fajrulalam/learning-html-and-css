@@ -5,13 +5,13 @@ body, h1   {
 
 h1.heading {
     font-family: 'Montserrat', sans-serif;
-    font-size: 38px;
+    font-size: 5em;
 }
 
 p.subheading {
     margin: 10px 0 50px 0;
     font-family: 'Sacramento', cursive;
-    font-size: 24px;
+    font-size: 2.2em;
 
 
 }
@@ -21,4 +21,15 @@ p.subheading {
     height: auto;
 }
 
+.skills-image {
+    max-width: 7.5%;
+    height: auto;
+}
 
+.italics {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
